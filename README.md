@@ -1,5 +1,3 @@
-# LineFollower
-
 # LineFollower 🏎 ... 🏁
 
 This is a team project developed during a one-day hackathon, at the Introduction to Robotics course taken in the 3rd year at the Faculty of Mathematics and Computer Science, University of Bucharest. The project consisted of assembling and programming a line follower robot.
