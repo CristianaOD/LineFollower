@@ -37,6 +37,10 @@ The contributors of the project from this repository are me, along with @alea de
   Our team's robot successfully completed the displayed racetrack in just 19.076 seconds!
 
    <h3>Chassis:</h3>
+<img src="https://github.com/CristianaOD/LineFollower/blob/main/linefollower/line3.jpeg?raw=true" alt="A photo of my setup" width="550" height="450">
+<img src="https://github.com/CristianaOD/LineFollower/blob/main/linefollower/line5.jpeg?raw=true" alt="A photo of my setup" width="550" height="450">
+<img src="https://github.com/CristianaOD/LineFollower/blob/main/linefollower/line4.jpeg?raw=truee" alt="A photo of my setup" width="550" height="450">
+
    
 </details> 
 
