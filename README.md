@@ -24,7 +24,7 @@ This is a team project developed during a one-day hackathon, at the Introduction
   Assemble and program the robot to navigate a racetrack made from black electrical tape on a white board (the line loops around), aiming for optimal speed and accuracy. The robot must adhere to certain rules, such as not taking shortcuts, staying on the track, and must not reverse on the track. It can only move along the black line. Make use of only six of the sensors from the QTR sensor array (excluding the outer left and outer right one), and ensure that the sensor calibrates itself before the robot commences its journey. Manual calibration of the sensors is not allowed, but as an added feature, the robot could employ calibration values stored in the EEPROM from previous calibration attempts. Additionally, the robot chassis must be constructed by the team. Employ a PID controller and adjust its gains, specifically Kp, Ki (optional), and Kd, to define the characteristics of the robot's movement.
 
   <h3>Photo of the line follower kit with required components 📷</h3>
-  <img src="https://github.com/AlexMihai1126/linefollower_robotics_prototype/blob/main/linefollower.png?raw=true">
+  <img src="https://github.com/CristianaOD/LineFollower/blob/main/linefollower/line6.jpeg?raw=true">
 
   <h3>Grading details</h3>
   Grade (1-12 points):
